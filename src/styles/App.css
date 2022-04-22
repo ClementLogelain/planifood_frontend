@@ -1,0 +1,7 @@
+.App{
+    background-image: url('../images/bg-light.webp');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: repeat-y;
+    aspect-ratio: 4/3;
+}

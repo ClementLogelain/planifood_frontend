@@ -1,0 +1,53 @@
+.title {
+    text-align: center;
+    margin-top: 15px;
+    color:blueviolet;
+}
+
+.no-meals{
+    width: 50%;
+    text-align: center;
+    position: relative;
+    left: 25%;
+    margin-top: 50px;
+}
+
+.meals {
+    margin-top: 50px;
+    width: 80%;
+    height: fit-content;
+    left: 10%;
+    justify-items: center;
+    position: relative;
+    border-left: 1px solid black;
+}
+
+.meal{
+    display: inline-block;
+    margin: 70px;
+    padding: 20px;
+    width: 40%;
+    border: 1px solid black;
+    border-radius: 5px;
+    /*background-image: url('../images/background-food.webp');*/
+}
+
+.meal-title{
+    text-align: left;
+    font-weight: bold;
+}
+
+.meal-duration{
+    margin-top: 20px;
+}
+.meal-image{
+    position: relative;
+    left: 50%;
+    padding-left: 10px;
+}
+
+.add-meal {
+    position: relative;
+    left: 80%;
+    width: fit-content;
+}

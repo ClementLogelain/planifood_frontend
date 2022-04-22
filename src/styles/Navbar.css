@@ -1,0 +1,28 @@
+.navigation {
+    padding-left: 15%;
+    background-color: #262D3F;
+}
+
+.navig2 {
+    align-content: center;
+}
+
+.links{
+    position: relative;
+    left: 7%;
+}
+
+.butn {
+    position: absolute;
+    right:25%;
+}
+
+.user-name{
+    position: absolute;
+    right:10%;
+}
+
+.nav-link{
+    font-size: 1.5em;
+    font-style: italic;
+}

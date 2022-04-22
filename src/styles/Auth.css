@@ -1,0 +1,24 @@
+.auth {
+    position: relative;
+    width: 25%;
+    height: fit-content;
+    background-color: #AEB5C8;
+    left: 30%;
+    top: 10%;
+    border-radius: 5px;
+}
+
+.auth-input {
+    position: relative;
+    width: 80%;
+    margin: auto;
+}
+
+.auth-submit {
+    margin-bottom: 10px;
+}
+
+.auth-field {
+    position: relative;
+    padding-bottom: 20px;
+}

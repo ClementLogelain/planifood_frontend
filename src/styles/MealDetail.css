@@ -1,0 +1,51 @@
+.mode{
+    position: fixed;
+    width: 10%;
+    left: 80%;
+    top:9%;
+}
+
+.meal-form {
+    margin-top: 70px;
+}
+
+.meal-detail{
+    position: relative;
+    left:10%;
+    width: 70%;
+    border-left: 1px solid black;
+}
+
+.meal-input {
+    position: relative;
+    left: 10%;
+    padding: 35px;
+}
+
+.meal-ingredients {
+    position: relative;
+    left: 10%;
+}
+
+.meal-label{
+    width: 10%;
+    font-weight: bold;
+    margin-right: 20%;
+}
+
+.ingredients-label{
+    font-weight: bold;
+}
+
+.ingredients{
+    position: relative;
+    left:30%;
+    list-style: none;
+    border-left: 1px solid black;
+}
+
+.ingredient-tab {
+    position: relative;
+    left: 75%;
+    bottom: 530px;
+}
